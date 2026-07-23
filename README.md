@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/omkumarray/LEETCODE/tree/master/0607-sales-person) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/omkumarray/LEETCODE/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/omkumarray/LEETCODE/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
