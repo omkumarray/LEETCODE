@@ -48,6 +48,7 @@
 | [0006-zigzag-conversion](https://github.com/omkumarray/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/omkumarray/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/omkumarray/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/omkumarray/LEETCODE/tree/master/0020-valid-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/omkumarray/LEETCODE/tree/master/0018-4sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/omkumarray/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
