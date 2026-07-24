@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/omkumarray/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/omkumarray/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/omkumarray/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/omkumarray/LEETCODE/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,8 +58,13 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/omkumarray/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/omkumarray/LEETCODE/tree/master/0018-4sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/omkumarray/LEETCODE/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/omkumarray/LEETCODE/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
