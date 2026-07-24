@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/omkumarray/LEETCODE/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/omkumarray/LEETCODE/tree/master/0012-integer-to-roman) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,10 +44,12 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/omkumarray/LEETCODE/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/omkumarray/LEETCODE/tree/master/0012-integer-to-roman) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/omkumarray/LEETCODE/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/omkumarray/LEETCODE/tree/master/0012-integer-to-roman) |
 ## Two Pointers
 |  |
 | ------- |
