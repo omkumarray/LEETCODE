@@ -42,4 +42,8 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/omkumarray/LEETCODE/tree/master/0006-zigzag-conversion) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/omkumarray/LEETCODE/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
