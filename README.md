@@ -29,6 +29,7 @@
 | [0011-container-with-most-water](https://github.com/omkumarray/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/omkumarray/LEETCODE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omkumarray/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/omkumarray/LEETCODE/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omkumarray/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/omkumarray/LEETCODE/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
