@@ -23,6 +23,7 @@
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/omkumarray/LEETCODE/tree/master/0178-rank-scores) |
 | [0607-sales-person](https://github.com/omkumarray/LEETCODE/tree/master/0607-sales-person) |
 ## Array
 |  |
