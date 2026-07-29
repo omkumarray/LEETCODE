@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/omkumarray/LEETCODE/tree/master/0178-rank-scores) |
+| [0577-employee-bonus](https://github.com/omkumarray/LEETCODE/tree/master/0577-employee-bonus) |
 | [0607-sales-person](https://github.com/omkumarray/LEETCODE/tree/master/0607-sales-person) |
 ## Array
 |  |
