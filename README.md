@@ -4,11 +4,13 @@
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/omkumarray/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/omkumarray/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/omkumarray/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/omkumarray/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/omkumarray/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -18,6 +20,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/omkumarray/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/omkumarray/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/omkumarray/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Database
@@ -111,4 +114,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/omkumarray/LEETCODE/tree/master/0078-subsets) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/omkumarray/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
