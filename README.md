@@ -44,12 +44,14 @@
 | [0046-permutations](https://github.com/omkumarray/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/omkumarray/LEETCODE/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/omkumarray/LEETCODE/tree/master/0078-subsets) |
+| [0169-majority-element](https://github.com/omkumarray/LEETCODE/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/omkumarray/LEETCODE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/omkumarray/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/omkumarray/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/omkumarray/LEETCODE/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/omkumarray/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/omkumarray/LEETCODE/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -87,6 +90,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/omkumarray/LEETCODE/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/omkumarray/LEETCODE/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -118,4 +122,12 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/omkumarray/LEETCODE/tree/master/0099-recover-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/omkumarray/LEETCODE/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/omkumarray/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
