@@ -44,6 +44,7 @@
 | [0046-permutations](https://github.com/omkumarray/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/omkumarray/LEETCODE/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/omkumarray/LEETCODE/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/omkumarray/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/omkumarray/LEETCODE/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -130,4 +131,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/omkumarray/LEETCODE/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/omkumarray/LEETCODE/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
