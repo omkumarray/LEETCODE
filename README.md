@@ -29,6 +29,7 @@
 | [0178-rank-scores](https://github.com/omkumarray/LEETCODE/tree/master/0178-rank-scores) |
 | [0577-employee-bonus](https://github.com/omkumarray/LEETCODE/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/omkumarray/LEETCODE/tree/master/0585-investments-in-2016) |
+| [0601-human-traffic-of-stadium](https://github.com/omkumarray/LEETCODE/tree/master/0601-human-traffic-of-stadium) |
 | [0607-sales-person](https://github.com/omkumarray/LEETCODE/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/omkumarray/LEETCODE/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/omkumarray/LEETCODE/tree/master/0620-not-boring-movies) |
