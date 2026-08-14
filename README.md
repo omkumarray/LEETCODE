@@ -74,12 +74,14 @@
 | [0013-roman-to-integer](https://github.com/omkumarray/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/omkumarray/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omkumarray/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0412-fizz-buzz](https://github.com/omkumarray/LEETCODE/tree/master/0412-fizz-buzz) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/omkumarray/LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/omkumarray/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/omkumarray/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/omkumarray/LEETCODE/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,4 +141,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/omkumarray/LEETCODE/tree/master/0118-pascals-triangle) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/omkumarray/LEETCODE/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
