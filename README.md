@@ -35,6 +35,7 @@
 | [0620-not-boring-movies](https://github.com/omkumarray/LEETCODE/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/omkumarray/LEETCODE/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/omkumarray/LEETCODE/tree/master/1075-project-employees-i) |
+| [1341-movie-rating](https://github.com/omkumarray/LEETCODE/tree/master/1341-movie-rating) |
 | [1407-top-travellers](https://github.com/omkumarray/LEETCODE/tree/master/1407-top-travellers) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/omkumarray/LEETCODE/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
