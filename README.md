@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/omkumarray/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/omkumarray/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/omkumarray/LEETCODE/tree/master/0169-majority-element) |
 ## String
 |  |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/omkumarray/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/omkumarray/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/omkumarray/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
 |  |
@@ -158,4 +160,16 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/omkumarray/LEETCODE/tree/master/0412-fizz-buzz) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/omkumarray/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/omkumarray/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/omkumarray/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
