@@ -64,6 +64,7 @@
 | [0051-n-queens](https://github.com/omkumarray/LEETCODE/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/omkumarray/LEETCODE/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/omkumarray/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/omkumarray/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/omkumarray/LEETCODE/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/omkumarray/LEETCODE/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/omkumarray/LEETCODE/tree/master/0136-single-number) |
 | [0401-binary-watch](https://github.com/omkumarray/LEETCODE/tree/master/0401-binary-watch) |
 ## Binary Search Tree
 |  |
