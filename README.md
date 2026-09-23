@@ -4,6 +4,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/omkumarray/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/omkumarray/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/omkumarray/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/omkumarray/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
@@ -28,6 +29,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/omkumarray/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/omkumarray/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/omkumarray/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/omkumarray/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
@@ -155,6 +157,7 @@
 | [0051-n-queens](https://github.com/omkumarray/LEETCODE/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/omkumarray/LEETCODE/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/omkumarray/LEETCODE/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/omkumarray/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0401-binary-watch](https://github.com/omkumarray/LEETCODE/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
@@ -166,6 +169,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/omkumarray/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/omkumarray/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/omkumarray/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/omkumarray/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
@@ -181,6 +185,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/omkumarray/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/omkumarray/LEETCODE/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/omkumarray/LEETCODE/tree/master/0118-pascals-triangle) |
 ## Simulation
