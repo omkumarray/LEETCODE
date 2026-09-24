@@ -110,6 +110,7 @@
 | [0009-palindrome-number](https://github.com/omkumarray/LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/omkumarray/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/omkumarray/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0089-gray-code](https://github.com/omkumarray/LEETCODE/tree/master/0089-gray-code) |
 | [0412-fizz-buzz](https://github.com/omkumarray/LEETCODE/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
@@ -156,6 +157,7 @@
 | [0046-permutations](https://github.com/omkumarray/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/omkumarray/LEETCODE/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/omkumarray/LEETCODE/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/omkumarray/LEETCODE/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/omkumarray/LEETCODE/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/omkumarray/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0401-binary-watch](https://github.com/omkumarray/LEETCODE/tree/master/0401-binary-watch) |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/omkumarray/LEETCODE/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/omkumarray/LEETCODE/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/omkumarray/LEETCODE/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/omkumarray/LEETCODE/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/omkumarray/LEETCODE/tree/master/0401-binary-watch) |
