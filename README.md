@@ -77,6 +77,7 @@
 | [0012-integer-to-roman](https://github.com/omkumarray/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/omkumarray/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/omkumarray/LEETCODE/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/omkumarray/LEETCODE/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/omkumarray/LEETCODE/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/omkumarray/LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/omkumarray/LEETCODE/tree/master/0389-find-the-difference) |
@@ -111,6 +112,7 @@
 | [0012-integer-to-roman](https://github.com/omkumarray/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/omkumarray/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0089-gray-code](https://github.com/omkumarray/LEETCODE/tree/master/0089-gray-code) |
+| [0202-happy-number](https://github.com/omkumarray/LEETCODE/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/omkumarray/LEETCODE/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
@@ -119,6 +121,7 @@
 | [0018-4sum](https://github.com/omkumarray/LEETCODE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omkumarray/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omkumarray/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/omkumarray/LEETCODE/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -215,4 +218,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/omkumarray/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/omkumarray/LEETCODE/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
