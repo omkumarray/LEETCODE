@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/omkumarray/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/omkumarray/LEETCODE/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0009-palindrome-number](https://github.com/omkumarray/LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/omkumarray/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/omkumarray/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/omkumarray/LEETCODE/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/omkumarray/LEETCODE/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/omkumarray/LEETCODE/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/omkumarray/LEETCODE/tree/master/0412-fizz-buzz) |
@@ -222,4 +224,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/omkumarray/LEETCODE/tree/master/0202-happy-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/omkumarray/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
