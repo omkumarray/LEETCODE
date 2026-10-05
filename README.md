@@ -106,6 +106,7 @@
 | [0383-ransom-note](https://github.com/omkumarray/LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/omkumarray/LEETCODE/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/omkumarray/LEETCODE/tree/master/0412-fizz-buzz) |
+| [0482-license-key-formatting](https://github.com/omkumarray/LEETCODE/tree/master/0482-license-key-formatting) |
 ## Math
 |  |
 | ------- |
