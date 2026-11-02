@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/omkumarray/LEETCODE/tree/master/0178-rank-scores) |
+| [0184-department-highest-salary](https://github.com/omkumarray/LEETCODE/tree/master/0184-department-highest-salary) |
 | [0262-trips-and-users](https://github.com/omkumarray/LEETCODE/tree/master/0262-trips-and-users) |
 | [0577-employee-bonus](https://github.com/omkumarray/LEETCODE/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/omkumarray/LEETCODE/tree/master/0585-investments-in-2016) |
