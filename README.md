@@ -44,6 +44,7 @@
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/omkumarray/LEETCODE/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/omkumarray/LEETCODE/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/omkumarray/LEETCODE/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/omkumarray/LEETCODE/tree/master/0184-department-highest-salary) |
